@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kahoot</string>
+    <string name="nick">Nick</string>
+    <string name="start">Iniciar Juego</string>
+    <string name="question">¿Qué es JUnit?</string>
+    <string name="red">Java development Kit</string>
+    <string name="orange">Open source framework, usado para escribir y ejecutar tests</string>
+    <string name="blue">Open source framework, el cual traduce bytecode a código binario</string>
+    <string name="green">Ninguno de los anteriores</string>
+    <string name="player">Respuesta del jugador</string>
+    <string name="answer">Respuesta correcta</string>
+    <string name="omitir">Omitir</string>
+</resources>
